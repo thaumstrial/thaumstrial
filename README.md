@@ -1,7 +1,7 @@
 I can't believe you found Thaumstrial! 😮
 ---
 
-Welcome to talk about computer technology with me. 😊
+Let's do something interesting together.
 
 ---
 
