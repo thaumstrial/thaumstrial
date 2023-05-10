@@ -5,4 +5,9 @@ I can't believe you found Thaumstrial! 😮
 
 🤔: Currently, I am studying natural language processing and mathematical analysis.
 
-🌴: I like ACG and video music, painting, novels, and math.
+🌴: I like ACG music, painting, novels, and math.
+
+---
+
+
+![Thaumstrial's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaumstrial&show_icons=true&theme=radical)
