@@ -5,7 +5,7 @@ I can't believe you found Thaumstrial! 😮
 
 🤔: Currently, I am studying natural language processing and mathematical analysis.
 
-🌴: I like ACG music, painting, novels, and math.
+🌴: I like ACG music.
 
 ---
 
